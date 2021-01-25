@@ -7,4 +7,4 @@ Simple Binary to Decimal numbers calculator made as a quick project to learn van
 ### Key elements
 - **Vanilla Javascript**
 - **Simple project**
-- **SkeletonCSS library*
+- **SkeletonCSS library**
